@@ -2,6 +2,9 @@
   "name": "videoinfo",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "electron": "electron ."
+  },
   "author": "\"Camilo Guerrero\"",
   "license": "MIT",
   "dependencies": {
