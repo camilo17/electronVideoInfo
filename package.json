@@ -1,0 +1,11 @@
+{
+  "name": "videoinfo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "\"Camilo Guerrero\"",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.6.8",
+    "eslint": "^3.19.0"
+  }
+}
